@@ -56,7 +56,7 @@
     <extension point="xbmc.addon.repository" name="xStream Repository">
         <info compressed="false">https://raw.github.com/discovert/discovert.github.io/master/zips/addons.xml</info>
         <checksum>https://raw.github.com/discovert/discovert.github.io/master/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.github.com/discovert.github.io/zips/xStreamRepo/master/zips/</datadir>
+        <datadir zip="true">https://raw.github.com/discovert/discovert.github.io/master/zips/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="de">xStream Repository</summary>
